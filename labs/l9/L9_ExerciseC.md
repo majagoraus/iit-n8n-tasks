@@ -10,7 +10,7 @@ Create a workflow in **n8n** that receives a note via a **Webhook** parameter, a
 3. Name it: `L9_ExerciseC_<your_github_username>`.
 
 **NOTE:** In the `L9/solutions/L9_ExerciseC.md` provide a screenshot showing a newly created, properly named workflow. Address bar in the browser must be visible.
-
+![1](image-8.png)
 ---
 
 ## Step 2: Add a Webhook Node
@@ -85,6 +85,8 @@ Configure:
 ```
 
 NOTE: Provide screenshots of node configuration to your solution file. Address bar in the browser must be visible.
+
+![3](image-9.png)
 
 ## Step 6: Test the Workflow
 

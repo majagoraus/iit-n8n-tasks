@@ -71,6 +71,8 @@ You now have two URLs:
 
 **NOTE**: Provide a screenshot with the result of workflow execution. Address bar in the browser must be visible.
 
+![4](image-10.png)
+
 ## Example Output
 
 Example output should be like:
