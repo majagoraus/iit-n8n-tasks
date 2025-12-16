@@ -11,7 +11,7 @@ Create a workflow in **n8n** that receives an event name via a **Webhook**, adds
 3. Name it: `L9_ExerciseA_<your_github_username>`.
 
 NOTE: In the `L9/solutions/L9_ExerciseA.md provide a screenshots showing a newly created, properly named workflow.
-
+![1](image.png)
 ---
 
 ## Step 2: Add a Webhook Node
@@ -49,7 +49,7 @@ return [
 ```
 
 NOTE: Provide a screenshot with node configuration to your solution file. Address bar in the browser must be visible.
-
+![2](image-2.png)
 ---
 
 ## Step 4: Add a Respond to Webhook Node
@@ -60,6 +60,8 @@ NOTE: Provide a screenshot with node configuration to your solution file. Addres
 4. Save.
 
 NOTE: Provide a screenshot with node configuration to your solution file. Address bar in the browser must be visible. 
+
+![3](image-3.png)
 ---
 
 ## Step 5: Test the Workflow
@@ -78,7 +80,7 @@ curl "http://[YOUR_CODESPACE_URL]/webhook-test/event?event=Lecture"
 ```
 
 NOTE: Provide a screenshot with the result of workflow execution. Address bar in the browser must be visible.
-
+![4](image-4.png)
 ---
 
 ## Note: Example Output

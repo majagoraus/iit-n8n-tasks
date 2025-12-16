@@ -11,7 +11,7 @@ Create a workflow in **n8n** that receives a request via a **Webhook**, fetches 
 3. Name it: `L9_ExerciseB_<your_github_username>`.
 
 **NOTE:** In the `L8/solutions/L9_ExerciseB.md` provide a screenshot showing a newly created, properly named workflow. Address bar in the browser must be visible.
-
+![1](image-5.png)
 ---
 
 ## Step 2: Add a Webhook Node
@@ -37,7 +37,7 @@ You now have two URLs:
    - **Response Format**: `JSON`
 
 **NOTE:** Provide a screenshot with node configuration to your solution file. Address bar in the browser must be visible.
-
+![2](image-6.png)
 ---
 
 ## Step 4: Add a Respond to Webhook Node
@@ -54,7 +54,7 @@ You now have two URLs:
 4. Save.  
 
 **NOTE:** Provide a screenshot with node configuration to your solution file. Address bar in the browser must be visible.
-
+![3](image-7.png)
 ---
 
 ## Step 5: Test the Workflow
